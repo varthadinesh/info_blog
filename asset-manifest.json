@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/info_blog/static/css/main.824b4fb0.css",
+    "main.js": "/info_blog/static/js/main.1206a4e2.js",
+    "static/media/22956230_recruitment_hiring_04.jpg": "/info_blog/static/media/22956230_recruitment_hiring_04.8899b9f77776423d07d1.jpg",
+    "static/media/wallpapersden.com_line-light-background_2560x1600.jpg": "/info_blog/static/media/wallpapersden.com_line-light-background_2560x1600.bb5f2bb75c872159e4c8.jpg",
+    "index.html": "/info_blog/index.html",
+    "main.824b4fb0.css.map": "/info_blog/static/css/main.824b4fb0.css.map",
+    "main.1206a4e2.js.map": "/info_blog/static/js/main.1206a4e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.824b4fb0.css",
+    "static/js/main.1206a4e2.js"
+  ]
+}
